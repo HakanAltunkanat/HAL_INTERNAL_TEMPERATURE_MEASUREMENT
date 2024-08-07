@@ -1,0 +1,10 @@
+../Core/Src/main.c:70:6:adc_read	3
+../Core/Src/main.c:84:6:seven_display	8
+../Core/Src/main.c:97:6:digit_config	6
+../Core/Src/main.c:131:6:TIM2_IRQHandler	1
+../Core/Src/main.c:147:5:main	1
+../Core/Src/main.c:194:6:SystemClock_Config	3
+../Core/Src/main.c:234:13:MX_ADC1_Init	3
+../Core/Src/main.c:280:13:MX_TIM2_Init	4
+../Core/Src/main.c:315:13:MX_GPIO_Init	1
+../Core/Src/main.c:361:6:Error_Handler	1
